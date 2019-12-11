@@ -54,6 +54,7 @@ public class Authorize {
             System.out.println(Colors.RED + "Пароли не совпадают! Повторите попытку!" + Colors.RESET);
             registerForm();
         }
+        System.out.println(Colors.GREEN + "Добро пожаловать, " + Colors.RESET + Colors.PURPLE + login + "!" + Colors.RESET);
     }
 
     private static void loginForm() {

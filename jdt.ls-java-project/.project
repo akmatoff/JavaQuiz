@@ -21,11 +21,6 @@
 			<location>//home/runner/Authorize.java</location>
 		</link>
 		<link>
-			<name>src/Colors.java</name>
-			<type>1</type>
-			<location>//home/runner/Colors.java</location>
-		</link>
-		<link>
 			<name>src/Main.java</name>
 			<type>1</type>
 			<location>//home/runner/Main.java</location>
